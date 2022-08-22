@@ -21,7 +21,8 @@ Used Node/Javascript because that is what I am more familiar with.
 
 ## Tradeoffs you may have made, anything you left out, or what you might do differently if you were to spend additional time on the project.
 Default mailer can be configured in line 5.
-I am not entirely confident what I did is ideal. It might have been better to create a separate function for error handling in regard to firing the other service when the default is down.
+I am not entirely confident what I did is ideal. It might have been better to create a separate function for error handling in regard to firing the other service when the default is down. 
+I would have included unit testing if I had more time.
 
 ## How much time you spent on the exercise.
 3-4 hours
@@ -29,3 +30,4 @@ I am not entirely confident what I did is ideal. It might have been better to cr
 ## Anything else you wish to include.
 The architecture for this project I leveraged from another project that is similar.  Please focus your attention on the sendEmail.js file:
 https://github.com/gtrapp/mailGun_Sendgrid_transactional_email/blob/main/controllers/sendEmail.js
+
