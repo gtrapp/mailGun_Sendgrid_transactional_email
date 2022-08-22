@@ -9,12 +9,12 @@ MAILGUN_API_KEY = your-api-key
 
 MAILGUN_DOMAIN = your-acct-sandbox-domain
 ```
-
 ## Step 2:
 
 `` npm install ``
 
 `` npm start ``
+
 
 ## Which language, framework, and libraries you chose and why?
 Used Node/Javascript because that is what I am more familiar with. 
