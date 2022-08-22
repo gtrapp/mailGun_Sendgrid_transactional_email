@@ -28,6 +28,6 @@ I would have included unit testing if I had more time.
 3-4 hours
 
 ## Anything else you wish to include.
-The architecture for this project I leveraged from another project that is similar.  Please focus your attention on the sendEmail.js file:
+The architecture for this project I leveraged from another project that is similar.  Please focus your attention on sendEmail.js:
 https://github.com/gtrapp/mailGun_Sendgrid_transactional_email/blob/main/controllers/sendEmail.js
 
